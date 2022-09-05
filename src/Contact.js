@@ -6,7 +6,7 @@ export default function Contact() {
       <h2>Contact information</h2>
 
       <p>Author name: Viktoriia Sakomaa</p>
-      <p>Email: viktoriia.pavlova@tuni.fi</p>
+      <p>Email: viktoriatsch(at)gmail.com</p>
       <p>Mob.phone: +358 45 2591080</p>
       <p>Address: Tampere, Finland</p>
       
